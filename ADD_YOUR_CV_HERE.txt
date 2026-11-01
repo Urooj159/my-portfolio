@@ -1,0 +1,2 @@
+Place your CV PDF in this folder and name it exactly: Urooj_Mahmood_CV.pdf
+The Download CV button in index.html expects that filename.
